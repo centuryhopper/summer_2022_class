@@ -1,0 +1,101 @@
+﻿Drawing from the information we learned in Discussion #1, expand on one of the recent public hacks mentioned by you or your fellow classmates and discuss some of the behavioral imperatives (perceptions, decision-making, etc) that may have led to this issue.  Some of this work may be speculation as vulnerabilities are not always disclosed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leo Zhang
+
+6/8/2022
+
+IDC 6601
+
+Assignment I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Daniel Muller’s discussion
+
+
+						Abstract
+
+The recent Russia-Ukraine war has paved the way for many cyber-attacks in the Russian webspace. It’s hard to imagine that a country that was well known for its massive cyber superiority now houses a free-for-all cyberspace filled with many users vulnerable to attacks. In this paper, I will discuss some the behavioral imperatives that may lead to this issue.
+
+
+
+From some of the twitter post snippets shown on the website [1], many individual hackers are dissatisfied with the Russian government and its president Putin. Some are part of the Anonymous hacktivist movement and they are stealing private data in order to punish the government for their war crimes. In the beginning of the war, DdoSecrets published 200 gigs of emails from the Belarus weapons manufacturer Tetraedr. One important message was published with the dataset announcement “#OpCyberBullyPutin”. The group of hacktivists are definitely not on Russia’s side and they are very committed in attacking Russia and trumping them in this cyber-warfare. The hackers’ interest are to blackmail the Russian government and to threaten them if they don’t do what the hackers say. It’s clear that the hackers want to gain power thru this.
+
+
+It is a dangerous territory to blend military and civilians for the very reason that you stated, militaries are subjected to specific rules and civilians would likely be treated more like outlaws and are doing so at their own risk and subjected to any laws they are breaking in their own country and the country they are attacking. One of the responses to Daniel Muller’s discussion stated if the civilian want to help those who are in trouble, they should do so in a way that is not hurting other civilians. This is very true but unfortunately in this digital age, it is very difficult to stop every civilian from hacking into a state war. It is certainly unfortunate that the citizens of Russia fall victim to these growing cyber attacks since the war started. I think Russia has fewer dependencies since many of them cut off ties with Russia since the war started and they support Ukraine. I'm sure some of those dependencies include companies who offer great cyber security protection. And with them not on Russia's side anymore, Russia is more on its own now. As for the rhetorical question at the end of Muller’s post, I think the saying goes "all is fair in love and war", so in the most desperate times we as human beings will take desperate measures to protect ourselves and achieve our goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

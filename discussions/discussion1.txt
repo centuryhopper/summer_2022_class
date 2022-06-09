@@ -1,0 +1,12 @@
+Briefly describe a current (i.e., over the last two years) cyber attack or other cyber-related event in the news and talk about a detail of interest (how they got hacked, timeline, etc).
+
+T-Mobile fell victim to a massive data breach back in August 2021, which impacted more than 50 million users. The attacker got access to the users' personal data such as names, addresses, date of birth, and social security numbers [1]. The company wouldn't disclose some details, which I wonder if it's because they're not sure about them or if it's just too confidential to share. However, what they could share was that the attacker leveraged their knowledge of technical systems, along with specialized tools and capabilities to break in and steal data [2].
+
+Several months later, reports mentioned that T-Mobile was dealing with another smaller data breach incident that was found to be a SIM swap attack. It's "smaller" because it affected a small number of customers. In a SIM swap attack, social engineering is used to persuade T-Mobile employees to reassign the phone numbers linked to a person to someone else, allowing attackers to take over a phone number. This can be devastating, as phone numbers are often linked to email accounts, banking accounts, and other sensitive information [3]. This type of an attack has greatly reminded me of how vulnerable my accounts can be if they all share a similar password and then linking them to my phone number. Sometimes I wonder how I can keep all my data safe and not have to remember many different passwords. A password manager might do, but I would love to learn about other ways as well.
+
+
+
+
+[1] https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap
+[2] https://www.t-mobile.com/news/network/cyberattack-against-tmobile-and-our-customers
+[3] https://www.macrumors.com/2021/12/29/t-mobile-data-breach-sim-attacks/
