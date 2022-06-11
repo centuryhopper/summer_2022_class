@@ -72,12 +72,10 @@ The Anonymous hacktivist collective has been bombarding Russia with cyber-attack
 This article [3] also provides an example of what I mentioned in my response to Muller’s question about civilian hackers. A hacker named Roman, who is coordinating his IT resistance for Ukraine, states that what he is doing is illegal and wrong until there is a threat to you or your relative [3]. The fact of the matter is that whether it is truly right or wrong for civilians to interfere with military business, when it comes to times of war, people will take any measures they can to ensure victory and survival. In our digital age almost everyone owns a phone and/or computer, and once information is leaked, it is pretty impossible to delete it completely from the cyber space.
 
 
+RuTube, which is Russia’s equivalent of YouTube, was also hacked and so Russian citizens are able to see the anti-war messages displayed. As the truth unfolds throughout the Russian citizens, some in decide to take digital action to protest the war, even within their own country [4]. As the war entered the third month (May 2022), Russia is struggling under an unprecedented hacking wave  that entwines government activity, political voluntarism, and criminal action [4].  Digital assailants have plundered the country’s personal financial data, defaced websites and handed decades of government emails to anti-secrecy activists abroad. One recent survey showed more passwords and other sensitive data from Russia were dumped onto the open Web in March than information from any other country [5]. Ever since the Ukraine war has started, hacking Russia has been made a free-for-all, and the sense that Russia is off-limits is somewhat expired, and hacktivism is one of the most accessible forms of striking at an unjust regime or its supporting infrastructure, as mentioned by Emma Best, co-founder of Distributed Denial of Secrets [5]. 
 
 
-
-
-
-
+Groups like Network Battalion 65 has even go so far as to threat and ask for ransomware payments from Russia. Many other groups have the objective of stealing state-secrets, government software (in the form of source codes), private documents and such [5]. These actions certainly can make it easier for these civilian hackers be treated as military soldiers rather than civilians because of how involved they are at stealing government data.
 
 
 
@@ -106,9 +104,9 @@ This article [3] also provides an example of what I mentioned in my response to 
 
 [3] https://www.bbc.com/news/technology-60784526
 
+[4] https://www.washingtonpost.com/world/2022/05/09/russia-tv-hack-victory-day-ukraine-war/
 
-
-
+[5] https://www.washingtonpost.com/technology/2022/05/01/russia-cyber-attacks-hacking/
 
 
 
