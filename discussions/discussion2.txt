@@ -1,0 +1,7 @@
+We have discussed human factors and cyber.  The following principles - perception, decision making, action selection, and training - have been developed in research and provide a basis for analyzing the factors affecting cyber-related decisions.
+
+Choose one of the four principles and discuss the importance and relevance to cybersecurity in general and also describe how the four affect each other in your own words.
+
+
+
+
