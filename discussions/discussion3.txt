@@ -1,0 +1,12 @@
+Tools in cybersecurity are getting more and more advanced. Not only can they sense net traffic etc., they can analyze, diagnose, and make recommendations as decision aids/support to help the cyberdefender select the course of action to take (there are even aids that can automatically trigger certain actions to thwart attacks). In addition, some tools can run big data analytics that pick out cyberattacks better than some cyberdefenders can. In addition, AI can be incorporated into systems to make them more resilient (e.g., have a Controller, Predictor etc.). How do all this impact the role of the human cyberdefender in the near future?
+
+
+I think robots may take over! Just kidding, at least that won't happen anytime soon. AI intervention right now is but a tool to aid in cyber security experts. And this type of concept, if implemented and controlled well should continue to more efficiently help cyber defenders do their jobs over time. According to an online article, a study showed that 95% of cyber security breaches can attributed to human error. However, with AI integration, there is continual learning, handling data, and eliminating tedious tasks (automation) [1]. There is no doubt that robots can automate certain tasks much better than humans can. 
+
+In the context of performing such tasks such as triggering certain actions to thwart attacks given a condition in some scenario, they can independently do so without human intervention. However, outside of the tasks the AI bots perform, they still need to be programmed and monitored by people, and I feel they will likely continue that way for many more years to come, which means human cyber defenders are very much still relevant. Theoretically though, if AI bots become so advanced in the future such that they can independently function themselves and make decisions without the need for any predefined variables set by humans, then it is very much possible that human cyberdefender roles may not be as relevant as it once was.
+
+
+
+
+[1] https://drexel.edu/cci/stories/role-of-AI-in-cybersecurity/
+
